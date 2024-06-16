@@ -1,8 +1,8 @@
-👋 Hi, I’m **[Your Name]**
+👋 Hi, I’m **[Michael Lawrence]**
 
 🔒 Cloud Security Engineer | 🌐 DevSecOps Enthusiast | 🚀 Passionate about Cloud Security and Automation
 
-💼 Working at [Current Company] | 🏠 Based in [Location]
+💼 Working at [Nowhere] | 🏠 Based in [United Kingdom]
 
 📧 Reach me at ciphermichael@gmail.com
 
