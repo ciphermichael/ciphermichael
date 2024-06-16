@@ -1,8 +1,8 @@
-👋 Hi, I’m **[Michael Lawrence]**
+👋 Hi, I’m **Michael Lawrence**
 
 🔒 Cloud Security Engineer | 🌐 DevSecOps Enthusiast | 🚀 Passionate about Cloud Security and Automation
 
-💼 Working at [Nowhere] | 🏠 Based in [United Kingdom]
+💼 Working at Nowhere | 🏠 Based in United Kingdom
 
 📧 Reach me at ciphermichael@gmail.com
 
@@ -14,7 +14,7 @@ I'm a passionate Cloud Security Engineer with a strong focus on protecting cloud
 - **Security Tools:** AWS Security Hub, Azure Security Center, GCP Security Command Center, SIEM
 - **Languages:** Python, Go, Bash
 - **DevSecOps:** Docker, Kubernetes, Terraform, Ansible
-- **Certifications:** AWS Certified Security - Specialty, CISSP
+- **Certifications:** AWS Certified Security - Specialty, CISSP, PECB ISO27001 Lead Implementer, PECB ISO27001 Lead Auditor, ISC2 CC, Etc...
 
 ## 🌟 Projects
 
