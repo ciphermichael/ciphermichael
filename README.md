@@ -30,12 +30,12 @@ I'm a passionate Cloud Security Engineer with a strong focus on protecting cloud
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ciphermichael&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: [your.email@example.com](mailto:ciphermichael@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/michael-lawrence-17178470/)
 - Blog: [Your Blog](https://yourblog.com)
 
 ## 📝 Recent Blog Posts
