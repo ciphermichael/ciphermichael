@@ -34,9 +34,9 @@ I'm a passionate Cloud Security Engineer with a strong focus on protecting cloud
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com](mailto:ciphermichael@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/michael-lawrence-17178470/)
-- Blog: [Your Blog](https://yourblog.com)
+- Email: (mailto:ciphermichael@gmail.com)
+- LinkedIn: (https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/michael-lawrence-17178470/)
+- Blog: (https://yourblog.com)
 
 ## 📝 Recent Blog Posts
 
